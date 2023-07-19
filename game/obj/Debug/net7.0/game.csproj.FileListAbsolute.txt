@@ -1,0 +1,15 @@
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/bin/Debug/net7.0/game
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/bin/Debug/net7.0/game.deps.json
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/bin/Debug/net7.0/game.runtimeconfig.json
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/bin/Debug/net7.0/game.dll
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/bin/Debug/net7.0/game.pdb
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/obj/Debug/net7.0/game.csproj.AssemblyReference.cache
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/obj/Debug/net7.0/game.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/obj/Debug/net7.0/game.AssemblyInfoInputs.cache
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/obj/Debug/net7.0/game.AssemblyInfo.cs
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/obj/Debug/net7.0/game.csproj.CoreCompileInputs.cache
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/obj/Debug/net7.0/game.dll
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/obj/Debug/net7.0/refint/game.dll
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/obj/Debug/net7.0/game.pdb
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/obj/Debug/net7.0/game.genruntimeconfig.cache
+/Volumes/SSD/Repos - SSD/Person/PedraPapel/game/obj/Debug/net7.0/ref/game.dll
